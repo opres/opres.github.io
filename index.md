@@ -8,10 +8,10 @@ LaTeX/Markdown crowd. At its core, it behaves like any Zotero import/export modu
 listed as one of the choices. If nothing else, you could keep your existing workflow as-is, and just enjoy the emproved
 LaTeX &lt;-&gt; unicode translation on im-and export. Over and above this improvement, it will give you
 
-* Stable, configurable [citation keys](citation-keys.html)
-* No more [Unicode problems](unicode.html)
-* A way to go [whole-hog](hardcore.html) for BibTeX
-* Other [niceties](niceties.html)
+* Stable, configurable
+* No more
+* A way to go for BibTeX
+* Other
 
 BBT works from [BibTeXing](http://ctan.cs.uu.nl/biblio/bibtex/base/btxdoc.pdf) and [Tame the
 BeaST](http://www.lsv.ens-cachan.fr/~markey/BibTeX/doc/ttb_en.pdf) for BibTeX, and
@@ -33,7 +33,7 @@ what is called "connector mode", which is currently [not
 supported](https://github.com/ZotPlus/zotero-better-bibtex/issues/143). Or, to be fully exact, you can have it installed
 in both, but running both at the same time will have BBT break at indeterminate occasions. Recoverable, but not fun.
 
-Start by downloading the [latest version](https://github.com/ZotPlus/zotero-better-bibtex/releases/download/{% include better-bibtex-version.html %}/zotero-better-bibtex-{% include better-bibtex-version.html %}.xpi) (**{% include better-bibtex-version.html %}**), and then
+Start by downloading the, and then
 
 ## BBT for Zotero Firefox
 
@@ -51,7 +51,7 @@ downloaded using another browser, double-click the downloaded xpi; Firefox ought
 # Got problems? We got fixes!
 
 If you have any questions on the use of the plugin, please do not hesitate to file a GitHub issue to ask for help. If
-you're reporting a bug in the plugin, please take a moment to glance through the [Support Request Guidelines](/support.html); it will
+you're reporting a bug in the plugin, please take a moment to glance through the; it will
 make sure I get your problem fixed as quick as possible. Clear bug reports commonly have time-to-fix of 10 minutes. The
 guidelines are very detailed, perhaps to the point of being off-putting, but please do not fret; these guidelines
 simply express my ideal bug submission. I of course prefer very clearly documented issue reports over fuzzy ones, but I
